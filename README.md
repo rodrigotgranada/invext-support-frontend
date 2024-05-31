@@ -44,7 +44,7 @@ Desenvolvido uma plataforma para inicialização de chamados de uma central de r
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) (versão >= 18.16.0), [Npm](https://www.npmjs.com/). 
 
-Ter o projeto do [Backend]((https://github.com/rodrigotgranada/invext-back)) rodando na porta 8080
+Ter o projeto do [Backend](https://github.com/rodrigotgranada/invext-back) rodando na porta 8080
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
